@@ -1,0 +1,11 @@
+# ninja log v6
+29	826	7709362728062070	Lab3_autogen/timestamp	75e2e6db78111388
+29	826	7709362728062070	Lab3_autogen/mocs_compilation.cpp	75e2e6db78111388
+29	826	7709362728062070	C:/Users/Lenovo/Documents/laba3/Laba3/build/Desktop_Qt_6_8_3_MSVC2022_64bit_qt_qt6-Debug/Lab3_autogen/timestamp	75e2e6db78111388
+29	826	7709362728062070	C:/Users/Lenovo/Documents/laba3/Laba3/build/Desktop_Qt_6_8_3_MSVC2022_64bit_qt_qt6-Debug/Lab3_autogen/mocs_compilation.cpp	75e2e6db78111388
+1116	4061	7709362732221132	CMakeFiles/Lab3.dir/event.cpp.obj	823f72575518c78e
+1055	4330	7709362731504068	CMakeFiles/Lab3.dir/clientinterface.cpp.obj	336c7ee10d5dfd5e
+835	4614	7709362729452322	CMakeFiles/Lab3.dir/Lab3_autogen/mocs_compilation.cpp.obj	f5650a34918f4a39
+918	4643	7709362730240238	CMakeFiles/Lab3.dir/main.cpp.obj	eb9934598ee0e2fb
+989	4817	7709362730966026	CMakeFiles/Lab3.dir/mainwindow.cpp.obj	3a8db2f228a49144
+4817	5759	7709362769277705	Lab3.exe	9737a341f0a46d5e
